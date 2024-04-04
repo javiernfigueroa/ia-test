@@ -1,0 +1,152 @@
+[
+  {
+    "nombre_local": "Local 1",
+    "nombre_producto": "Sol",
+    "precio_producto": "1500.00"
+  },
+  {
+    "nombre_local": "Local 1",
+    "nombre_producto": "Austral",
+    "precio_producto": "1000.00"
+  },
+  {
+    "nombre_local": "Local 1",
+    "nombre_producto": "Artesanal",
+    "precio_producto": "2000.00"
+  },
+  {
+    "nombre_local": "Local 2",
+    "nombre_producto": "Sol",
+    "precio_producto": "2000.00"
+  },
+  {
+    "nombre_local": "Local 2",
+    "nombre_producto": "Austral",
+    "precio_producto": "1500.00"
+  },
+  {
+    "nombre_local": "Local 2",
+    "nombre_producto": "Artesanal",
+    "precio_producto": "3000.00"
+  },
+  {
+    "nombre_local": "Local 3",
+    "nombre_producto": "Sol",
+    "precio_producto": "2800.00"
+  },
+  {
+    "nombre_local": "Local 3",
+    "nombre_producto": "Austral",
+    "precio_producto": "1800.00"
+  },
+  {
+    "nombre_local": "Local 3",
+    "nombre_producto": "Artesanal",
+    "precio_producto": "3800.00"
+  },
+  {
+    "nombre_local": "Local 4",
+    "nombre_producto": "Sol",
+    "precio_producto": "3100.00"
+  },
+  {
+    "nombre_local": "Local 4",
+    "nombre_producto": "Austral",
+    "precio_producto": "2100.00"
+  },
+  {
+    "nombre_local": "Local 4",
+    "nombre_producto": "Artesanal",
+    "precio_producto": "4100.00"
+  },
+  {
+    "nombre_local": "Local 5",
+    "nombre_producto": "Sol",
+    "precio_producto": "3600.00"
+  },
+  {
+    "nombre_local": "Local 5",
+    "nombre_producto": "Austral",
+    "precio_producto": "2600.00"
+  },
+  {
+    "nombre_local": "Local 5",
+    "nombre_producto": "Artesanal",
+    "precio_producto": "4600.00"
+  },
+  {
+    "nombre_local": "Local 6",
+    "nombre_producto": "Sol",
+    "precio_producto": "3600.00"
+  },
+  {
+    "nombre_local": "Local 6",
+    "nombre_producto": "Austral",
+    "precio_producto": "2600.00"
+  },
+  {
+    "nombre_local": "Local 6",
+    "nombre_producto": "Artesanal",
+    "precio_producto": "4600.00"
+  },
+  {
+    "nombre_local": "Local 7",
+    "nombre_producto": "Sol",
+    "precio_producto": "3900.00"
+  },
+  {
+    "nombre_local": "Local 7",
+    "nombre_producto": "Austral",
+    "precio_producto": "2900.00"
+  },
+  {
+    "nombre_local": "Local 7",
+    "nombre_producto": "Artesanal",
+    "precio_producto": "4900.00"
+  },
+  {
+    "nombre_local": "Local 8",
+    "nombre_producto": "Sol",
+    "precio_producto": "4100.00"
+  },
+  {
+    "nombre_local": "Local 8",
+    "nombre_producto": "Austral",
+    "precio_producto": "3100.00"
+  },
+  {
+    "nombre_local": "Local 8",
+    "nombre_producto": "Artesanal",
+    "precio_producto": "5100.00"
+  },
+  {
+    "nombre_local": "Local 9",
+    "nombre_producto": "Sol",
+    "precio_producto": "4100.00"
+  },
+  {
+    "nombre_local": "Local 9",
+    "nombre_producto": "Austral",
+    "precio_producto": "3100.00"
+  },
+  {
+    "nombre_local": "Local 9",
+    "nombre_producto": "Artesanal",
+    "precio_producto": "5100.00"
+  },
+  {
+    "nombre_local": "Local 10",
+    "nombre_producto": "Sol",
+    "precio_producto": "2300.00"
+  },
+  {
+    "nombre_local": "Local 10",
+    "nombre_producto": "Austral",
+    "precio_producto": "1750.00"
+  },
+  {
+    "nombre_local": "Local 10",
+    "nombre_producto": "Artesanal",
+    "precio_producto": "2800.00"
+  }
+]

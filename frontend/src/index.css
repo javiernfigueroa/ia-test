@@ -1,0 +1,123 @@
+* {
+  color: #fff;
+  font-family: sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.app {
+  background-color: #343541;
+  display: flex;
+}
+
+.side-bar {
+  background-color: #202123;
+  height: 100vh;
+  width: 244px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+button {
+
+border: solid 0.5px white;
+background-color: transparent;
+border-radius: 5px;
+padding: 10px;
+margin: 10px;
+}
+
+nav {
+  border-top: solid 0.5px white;
+  padding: 10px;
+  margin: 10px;
+}
+
+.history {
+  padding: 10px;
+  margin: 10px;
+  height: 100%;
+}
+
+.history li {
+  list-style-type: none;
+  padding: 15px 0;
+  cursor: pointer;
+}
+
+.main {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+}
+
+.info {
+  color: white;
+  font-size: 11px;
+  padding: 10px;
+}
+
+.input-container {
+  position: relative;
+  width: 100%;
+  max-width: 500px;
+}
+
+input {
+  width: 100%;
+  font-size: 20px;
+  border: none;
+  background-color: white;
+  padding: 12px 15px;
+  border-radius: 5px;
+  color: black;
+}
+
+input:focus {
+  outline: none;
+}
+
+.bottom-section {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#submit {
+  position: absolute;
+  bottom: 15px;
+  right: 0;
+  cursor: pointer;
+  color: black;
+}
+
+.feed {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.feed li {
+  background-color: #2c2f3b;
+  border-radius: 10px;
+  padding: 10px;
+  margin-bottom: 10px;
+  max-width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.feed p {
+  color: #fff;
+  margin: 0;
+}
